@@ -7,14 +7,15 @@
 <p><h1>Deneme &#174; </p></h1>
 
 
-<p><a href> "link bu şekilde paylaşılır "</a href></p>
-<a href> " ikinci link "</a href>
+<p><a href "link bu şekilde paylaşılır "> link</a></p>
+<a href "mailto:ikinci link "> damla </a>
 
-
-
+<p><img src= "icons/cat-cupid-love-icon.png" width="50" height="50" alt="kediii" /></p>
+<p><img src= "icons/cat-lady-icon.png" width="50" height="50" alt="kediko" /></p>
 
 </body>
 </html>
+
 
 
 
