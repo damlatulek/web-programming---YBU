@@ -1,8 +1,1 @@
-<!DOCTYPE>
-<html> 
-<head> 
-<title> sekme üstünde çıkan yer mesela bu sayfanın dili türkçedir buraya yazılır</title>
-</head>
-<body> titlesız yazılır </body>
-</html>
-
+http://ascii.cl/htmlcodes.htm     özel karakter kullanacağım zaman 
